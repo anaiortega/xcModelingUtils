@@ -1,0 +1,8 @@
+setup.py
+xcModelingUtils.egg-info/PKG-INFO
+xcModelingUtils.egg-info/SOURCES.txt
+xcModelingUtils.egg-info/dependency_links.txt
+xcModelingUtils.egg-info/top_level.txt
+xcmodutils/__init__.py
+xcmodutils/steel_struct/__init__.py
+xcmodutils/steel_struct/steel_connection_models.py
